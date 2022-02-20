@@ -1,0 +1,159 @@
+@import url(https://fonts.googleapis.com/css?family=Didact+Gothic|Comfortaa:400,700&subset=latin,cyrillic);
+body{
+    background:linear-gradient(to right, #0f2027, #203a43,#2c5364);
+    }
+    
+   .navbar{
+   color:linear-gradient(to right, #0f2027, #203a43,#2c5364);
+   }
+
+   .nav-link{
+       margin:3px;
+       font-weight:500;
+       font-family:'Comfortaa',cursive;
+   }
+   
+   .navbar-brand:hover{
+       color:blanchedalmond;
+   }
+
+   .nav-link:hover{
+       color:black;
+   }
+
+   .navbar a{
+       font-family: 'Comfortaa',cursive;
+       font-size: 27px;
+       color:blanchedalmond;
+   }
+   
+    
+    .avatar2{
+        border-radius:50%;
+        width: 500px;
+        position:relative;
+        left:120px; 
+        top:11px;
+    
+    }
+    .avatar3{
+        border-radius:50%;
+        width: 440px;
+        position: relative;
+        left:120px;
+    }   
+    .avatar{
+        border-radius:50%;
+        width: 400px;
+        position: relative;
+        left:830px;
+        top:340px;
+    
+    }
+    
+    .tag {
+    color:blanchedalmond    ;
+    font-size: 160px;
+    position:absolute;
+    writing-mode:vertical-lr;
+    font-family:'Comfortaa',cursive;
+    top:80px;
+    left:250px;
+    }
+
+    .main{
+    color:blanchedalmond;
+    font-size: 160px;
+    position:absolute;
+    writing-mode:vertical-lr;
+    font-family:'Comfortaa',cursive;
+    top:150px;
+    left:30px;
+    }
+    
+    .aboutlogo{
+        color:blanchedalmond;
+        font-family:'Comfortaa',cursive ;
+        font-weight: 700;
+        font-size: 70px;   
+        position: absolute;
+        left:40px;
+        top:110%;
+        border-top: 5px #fdf5e6 groove ;
+     }
+
+    .about{
+        color:blanchedalmond;
+        font-family:'Comfortaa',cursive;
+        font-size:25px;
+        font-weight: 100;
+        position:absolute;
+        top:130%;
+        left:40px;
+     }
+
+    .ab2{   
+        color:blanchedalmond;
+        font-family:'Comfortaa',cursive;
+        font-size:25px;
+        font-weight: 100;
+        position:absolute;
+        top:155%;
+        left:40px;
+     }
+    
+
+    .buy{
+        font-family:'Comfortaa',cursive;
+        position: absolute;
+        left:61%;
+        top:60%;
+        height: 100px;
+        width:200px;
+        font-size: 30px;
+        border-radius: 16%;
+        text-align: center;
+
+     }
+
+    .buy:hover{
+        color:blanchedalmond;
+        background-color:#004b55;   
+        }
+    
+    .teamlogo{
+        color:blanchedalmond;
+        font-family:'Comfortaa',cursive ;
+        font-weight: 700;
+        font-size: 70px;   
+        position: absolute;
+        left:40px;
+        top:175%;
+        border-top: 5px rgb(253, 245, 230) groove ;
+    }    
+   .row{
+       position: absolute;
+       top:192%;
+       size:45px;
+       border-radius:15%;
+   }
+    
+    .row h2{
+        color:blanchedalmond;
+        text-align: center;
+        font-family:'Comfortaa';
+    }
+
+    .faq{
+        position:absolute;
+        top:260%;  
+        left:20px;
+        color:blanchedalmond;
+        font-size:70px;
+        border-top: 5px rgb(253, 245, 230) groove ;
+        font-family:'Comfortaa',cursive;
+        font-weight: 700;
+    }
+
+    
+
